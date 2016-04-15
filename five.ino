@@ -1,5 +1,3 @@
-// UNFINISHED
-
 int order[4] = { 11, 13, 12, 10 };
 
 void setup() {
